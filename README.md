@@ -31,8 +31,126 @@ We use this categorical data encoding technique when the features are nominal(do
 • Yeojohnson method
 
 # CODING AND OUTPUT:
-       # INCLUDE YOUR CODING AND OUTPUT SCREENSHOTS HERE
+
+## Feature Enconding
+
+![alt text](image.png)
+
+<br>
+<br>
+
+![alt text](image-1.png)
+
+<br>
+<br>
+
+![alt text](image-2.png)
+
+<br>
+<br>
+
+![alt text](image-3.png)
+
+<br>
+<br>
+
+![alt text](image-4.png)
+
+<br>
+<br>
+
+![alt text](image-5.png)
+
+<br>
+<br>
+
+![alt text](image-6.png)
+
+<br>
+<br>
+
+![alt text](image-7.png)
+
+<br>
+<br>
+
+### Binary Encoder
+
+![alt text](image-8.png)
+
+<br>
+<br>
+
+![alt text](image-9.png)
+
+<br>
+<br>
+
+![alt text](image-10.png)
+
+<br>
+<br>
+
+![alt text](image-11.png)
+
+<br>
+<br>
+
+## Data Transformation
+
+![alt text](image-12.png)
+
+<br>
+<br>
+
+![alt text](image-13.png)
+
+<br>
+<br>
+
+![alt text](image-14.png)
+
+<br>
+<br>
+
+![alt text](image-15.png)
+
+<br>
+<br>
+
+![alt text](image-16.png)
+
+<br>
+<br>
+
+![alt text](image-17.png)
+
+<br>
+<br>
+
+![alt text](image-18.png)
+
+<br>
+<br>
+
+![alt text](image-19.png)
+
+<br>
+<br>
+
+![alt text](image-20.png)
+
+<br>
+<br>
+
+![alt text](image-21.png)
+
+<br>
+<br>
+
+
 # RESULT:
-       # INCLUDE YOUR RESULT HERE
+
+    Hence performing Feature Encoding and Transformation process is Successfully executed.
 
        
